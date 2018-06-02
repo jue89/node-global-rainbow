@@ -1,0 +1,25 @@
+{
+  "name": "global-rainbow",
+  "version": "1.0.0",
+  "description": "Distributed rainbow colours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jue89/node-global-rainbow.git"
+  },
+  "keywords": [
+    "rainbow",
+    "colours",
+    "distributed",
+    "global"
+  ],
+  "author": "Jue <me@jue.yt>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jue89/node-global-rainbow/issues"
+  },
+  "homepage": "https://github.com/jue89/node-global-rainbow#readme"
+}
